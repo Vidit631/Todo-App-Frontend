@@ -4,6 +4,7 @@
 This is the frontend portion of Todo App
 
 ## Setup
+To avoid any issues, clone this repository into a 'frontend' directory and place 'frontend' directory inside the same root directory which contains 'backend' directory
 
 ### Prerequisites
 - Node.js
@@ -22,4 +23,4 @@ Start the frontend server:
 ```bash
 npm run dev
 ```
-Visit http://localhost:3000 in your browser
+The app would start running at http://localhost:3000 in your browser
